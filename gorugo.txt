@@ -1,1 +1,2 @@
-gorugorugorugo
+gorugoru
+ブランチ移動しました
